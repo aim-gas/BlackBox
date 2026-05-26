@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Logs / artifacts
+*.log
+node_modules/
+package-lock.json
+yarn.lock
+
+# Local data / drafts
+/local/
+/tmp/
+*.bak
+*-draft.html
+
+# Build output (reserved)
+/dist/
+/build/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem

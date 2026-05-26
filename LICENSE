@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 aim-gas
+Copyright (c) 2026 gas.ac
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+—
+
+NOTE ON TRADEMARKS: The MIT licence above covers the software code only.
+The names "BlackBox", "Know Your Data Pulse", the BlackBox cube logo, and the
+EKG pulse visual identity are trademarks of gas.ac and are not licensed under
+the MIT licence. See TRADEMARKS.md for permitted uses.
