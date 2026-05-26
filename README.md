@@ -17,6 +17,18 @@ Upload a spreadsheet, a PDF, or a Word doc — get instant dashboards, AI-genera
 
 ---
 
+## 🚀 Try it instantly
+
+| | |
+|---|---|
+| 🌐 **Live demo (GitHub Pages)** | **[→ https://aim-gas.github.io/BlackBox/](https://aim-gas.github.io/BlackBox/)** |
+| 🔍 Inline preview (no Pages needed) | [→ htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/aim-gas/BlackBox/blob/main/index.html) |
+| 📥 Download & run locally | [Right-click → Save As](https://raw.githubusercontent.com/aim-gas/BlackBox/main/index.html) then open in any browser |
+
+No install, no signup, no backend. Drop a CSV, XLSX, DOCX or PDF and go.
+
+---
+
 ## ✨ Features
 
 | | |
@@ -36,36 +48,31 @@ Upload a spreadsheet, a PDF, or a Word doc — get instant dashboards, AI-genera
 
 ---
 
-## 🚀 Quick Start
-
-### Option 1 — Try it instantly (recommended)
-
-[**→ Open the live demo**](https://github.com/aim-gas/BlackBox/blob/main/index.html)
-
-That's it. No install, no signup. Drop a file and go.
-
-### Option 2 — Run locally
+## 💻 Run locally
 
 ```bash
 git clone https://github.com/aim-gas/BlackBox.git
 cd BlackBox
-# Open index.html in any modern browser
+# Either open the file directly:
 open index.html       # macOS
 xdg-open index.html   # Linux
 start index.html      # Windows
+# Or serve it:
+python3 -m http.server 8000   # → http://localhost:8000
 ```
 
-That's it. **No npm install. No build step. No backend.** BlackBox is a single self-contained HTML file.
+**No npm install. No build step. No backend.** BlackBox is a single self-contained HTML file.
 
-### Option 3 — Self-host
+---
 
-```bash
-# Any static file server works:
-python3 -m http.server 8000
-# → http://localhost:8000
-```
+## 🔧 Self-host on GitHub Pages
 
-Drop `index.html` on any CDN, S3 bucket, GitHub Pages, Vercel, Netlify, or your intranet. It just works.
+This repo ships a ready-to-go GitHub Pages workflow (`.github/workflows/pages.yml`). To activate:
+
+1. Go to **Settings → Pages**
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**
+3. Push any change to `main` (the workflow runs automatically)
+4. Your live demo will be at **`https://<your-username>.github.io/BlackBox/`**
 
 ---
 
