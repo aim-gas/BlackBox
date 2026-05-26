@@ -40,7 +40,7 @@ Upload a spreadsheet, a PDF, or a Word doc — get instant dashboards, AI-genera
 
 ### Option 1 — Try it instantly (recommended)
 
-[**→ Open the live demo**](https://aim-gas.github.io/BlackBox/)
+[**→ Open the live demo**](https://aim-gas.github.io/BlackBox/index.html)
 
 That's it. No install, no signup. Drop a file and go.
 
