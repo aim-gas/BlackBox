@@ -19,13 +19,11 @@ Upload a spreadsheet, a PDF, or a Word doc — get instant dashboards, AI-genera
 
 ## 🚀 Try it instantly
 
-| | |
-|---|---|
-| 🌐 **Live demo (GitHub Pages)** | **[→ https://aim-gas.github.io/BlackBox/](https://aim-gas.github.io/BlackBox/)** |
-| 🔍 Inline preview (no Pages needed) -> graphs will not load but functionality can be observed | [→ htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/aim-gas/BlackBox/blob/main/index.html) |
-| 📥 Best option always works shows all features! Download & run locally | [Right-click → Save As](https://raw.githubusercontent.com/aim-gas/BlackBox/main/index.html) then open in any browser |
+### ▶ [Open the live demo → aim-gas.github.io/BlackBox](https://aim-gas.github.io/BlackBox/)
 
 No install, no signup, no backend. Drop a CSV, XLSX, DOCX or PDF and go.
+
+**Prefer to run it offline?** [Right-click → Save As](https://raw.githubusercontent.com/aim-gas/BlackBox/main/index.html) the raw `index.html`, then open it in any modern browser.
 
 ---
 
@@ -65,17 +63,6 @@ python3 -m http.server 8000   # → http://localhost:8000
 
 ---
 
-## 🔧 Self-host on GitHub Pages
-
-This repo ships a ready-to-go GitHub Pages workflow (`.github/workflows/pages.yml`). To activate:
-
-1. Go to **Settings → Pages**
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**
-3. Push any change to `main` (the workflow runs automatically)
-4. Your live demo will be at **`https://<your-username>.github.io/BlackBox/`**
-
----
-
 ## 🔒 Privacy <a id="privacy"></a>
 
 BlackBox is **fully client-side**. There is no backend, no telemetry, no analytics SDK, no tracking cookie, no remote log. Every uploaded file is parsed and analysed inside the browser's sandbox — bytes never leave the device.
@@ -88,12 +75,12 @@ See [PRIVACY.md](PRIVACY.md) for the full GDPR notice (Articles 15, 16, 17, 20, 
 
 ## 🎬 Screenshots
 
-> _Add screenshots here after first publish:_
+> _Add screenshots in `docs/screenshots/` and reference them here:_
 >
-> - `docs/screenshots/dashboard.png`
-> - `docs/screenshots/pivot.png`
-> - `docs/screenshots/pdf-chat.png`
-> - `docs/screenshots/ml-pipeline.png`
+> - `dashboard.png` — Auto-dashboard view
+> - `pivot.png` — Pivot table builder
+> - `pdf-chat.png` — PDF document + chat panel
+> - `ml-pipeline.png` — ML pipeline stages
 
 ---
 
