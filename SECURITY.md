@@ -10,8 +10,7 @@ Only the latest release on the `main` branch is actively supported.
 
 Instead:
 
-1. Open a [GitHub Security Advisory](../../security/advisories/new) for this repository, **or**
-2. Email **security@gas.ac** with the subject line `BlackBox vulnerability`.
+1. Open a [GitHub Security Advisory](../../security/advisories/new) for this repository
 
 Please include description + impact, reproduction steps, browser + OS, and embargo status.
 
