@@ -22,8 +22,8 @@ Upload a spreadsheet, a PDF, or a Word doc — get instant dashboards, AI-genera
 | | |
 |---|---|
 | 🌐 **Live demo (GitHub Pages)** | **[→ https://aim-gas.github.io/BlackBox/](https://aim-gas.github.io/BlackBox/)** |
-| 🔍 Inline preview (no Pages needed) | [→ htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/aim-gas/BlackBox/blob/main/index.html) |
-| 📥 Download & run locally | [Right-click → Save As](https://raw.githubusercontent.com/aim-gas/BlackBox/main/index.html) then open in any browser |
+| 🔍 Inline preview (no Pages needed) -> graphs will not load but functionality can be observed | [→ htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/aim-gas/BlackBox/blob/main/index.html) |
+| 📥 Best option always works shows all features! Download & run locally | [Right-click → Save As](https://raw.githubusercontent.com/aim-gas/BlackBox/main/index.html) then open in any browser |
 
 No install, no signup, no backend. Drop a CSV, XLSX, DOCX or PDF and go.
 
